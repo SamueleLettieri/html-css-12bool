@@ -1,0 +1,19 @@
+.line{
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+}
+
+.c-b{
+    background-color: rgb(103, 103, 255);
+}
+
+.c-g{
+    background-color: green;
+}
+
+.green{
+    border: 1px solid rgb(103, 103, 255);
+    padding: 10px;
+}
