@@ -27,6 +27,10 @@
     padding: 20px;
 }
 
+.p-20{
+    padding: 20px;
+}
+
 .line3{
     border: 1px solid white;
     padding: 40px;
@@ -41,3 +45,18 @@
 }
 
 
+.a-c{
+    align-items: center;
+}
+
+.a-e{
+    align-items: flex-end;
+}
+
+.j-a{
+    justify-content: space-around;
+}
+
+.j-b{
+    justify-content: space-between;
+}
